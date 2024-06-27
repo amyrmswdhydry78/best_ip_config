@@ -28,17 +28,22 @@ V2RayNG is a powerful and versatile proxy tool that supports multiple protocols,
 
 ### Installation
 
-1. Clone this repository to your local machine:
-    ```sh
-    git clone https://github.com/yourusername/best_ip_config.git
+1. First, download and execute the installation script using the following command:
+    ```bash
+    bash <(curl -fsSL https://raw.githubusercontent.com/immaghzbad/best_ip_config/main/install.sh)
     ```
 
-2. Navigate to the repository directory:
-    ```sh
+2. If you prefer to manually clone the repository and navigate to it, follow these steps:
+
+    **Clone this repository to your local machine:**
+    ```bash
+    git clone https://github.com/immaghzbad/best_ip_config.git
+    ```
+
+    **Navigate to the repository directory:**
+    ```bash
     cd best_ip_config
     ```
-
-3. Follow the configuration instructions provided below.
 
 ### Configuration
 
