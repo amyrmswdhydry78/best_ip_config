@@ -184,6 +184,7 @@ cfwarpIP
 endipv4
 endipresult
 
+clear
 # Process VLESS configuration with new IP and port
 new_vless_url=$(process_vless_config "$vless_url" "$Endip_v4")
 echo -e "${green}New VLESS config:${rest} $new_vless_url"
