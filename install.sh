@@ -16,7 +16,6 @@ display_creator_info() {
     echo -e "${purple}*          VlessEndpointScanner           *${rest}"
     echo -e "${purple}*************************************${rest}"
     echo -e "${purple}* ${green}Name: ${blue}ImErfan${purple}               *${rest}"
-    echo -e "${purple}* ${green}Telegram ID: ${blue}@ImMaghzBad${purple}      *${rest}"
     echo -e "${purple}* ${green}Telegram Channel: ${blue}@PowerSigma${purple} *${rest}"
     echo -e "${purple}* ${green}GitHub: ${blue}https://github.com/immaghzbad${purple} *${rest}"
     echo -e "${purple}* ${green}Website: ${blue}https:/powersigma.site${purple} *${rest}"
