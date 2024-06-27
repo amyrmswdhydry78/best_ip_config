@@ -66,7 +66,7 @@ We welcome contributions from the community! If you have suggestions, improvemen
 For more information, support, or inquiries, you can reach out to the project maintainer:
 
 - **WebSite**: [powersigma.site](https://powersigma.site)
-- **Telegram Channel**: [YourTelegramLink](https://t.me/PowerSigma)
+- **Telegram Channel**: [@PowerSigma](https://t.me/PowerSigma)
 - **Telegram ImErfan**: [@ImMaghzBad](https://t.me/ImMaghzBad)
 
 
