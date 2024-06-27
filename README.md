@@ -44,8 +44,6 @@ For more information, support, or inquiries, reach out to the project maintainer
 
 - **Website**: [powersigma.site](https://powersigma.site)
 - **Telegram Channel**: [@PowerSigma](https://t.me/PowerSigma)
-- **Telegram ImErfan**: [@ImMaghzBad](https://t.me/ImMaghzBad)
-
 ---
 
 Thank you for using our optimal IP Scanner for the V2RayNG VLESS protocol. We hope it enhances your connection experience!
