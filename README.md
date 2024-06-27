@@ -9,14 +9,12 @@ Welcome to the best_ip_config repository! This repository aims to provide the mo
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [Contact](#contact)
+4. [Contributing](#contributing)
+5. [Contact](#contact)
 
 ### Introduction
 
-V2RayNG is a powerful and versatile proxy tool that supports multiple protocols, including VLESS. This repository provides an optimized IP configuration to enhance your VLESS protocol performance on V2RayNG.
+V2RayNG is a powerful and versatile proxy tool that supports multiple protocols, including VLESS. This repository provides an optimized IP Scanner to enhance your VLESS protocol performance on V2RayNG.
 
 ### Features
 
@@ -43,20 +41,6 @@ V2RayNG is a powerful and versatile proxy tool that supports multiple protocols,
     ```bash
     cd best_ip_config
     ```
-
-### Configuration
-
-To apply the optimal IP configuration to your V2RayNG setup, follow these steps:
-
-1. Open the V2RayNG application on your device.
-2. Go to the "Settings" section.
-3. Import the provided IP configuration file from this repository.
-4. Save the settings and restart the application.
-
-### Usage
-
-Once the configuration is applied, you can start using V2RayNG with the enhanced VLESS protocol settings. Enjoy a faster and more secure connection experience.
-
 ### Contributing
 
 We welcome contributions from the community! If you have suggestions, improvements, or bug reports, please feel free to submit an issue or a pull request. For major changes, please open an issue first to discuss what you would like to change.
@@ -72,6 +56,6 @@ For more information, support, or inquiries, you can reach out to the project ma
 
 ---
 
-Thank you for using our optimal IP configuration for V2RayNG VLESS protocol. We hope it enhances your connection experience!
+Thank you for using our optimal IP Scanner for V2RayNG VLESS protocol. We hope it enhances your connection experience!
 
 ---
