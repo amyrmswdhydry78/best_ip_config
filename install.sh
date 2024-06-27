@@ -13,13 +13,22 @@ rest='\033[0m'
 # Display creator information
 display_creator_info() {
     echo -e "${purple}*************************************${rest}"
-    echo -e "${purple}*          Script Creator           *${rest}"
+    echo -e "${purple}*          VlessEndpointScanner           *${rest}"
     echo -e "${purple}*************************************${rest}"
     echo -e "${purple}* ${green}Name: ${blue}ImErfan${purple}               *${rest}"
-    echo -e "${purple}* ${green}Telegram ID: ${blue}@ImErfan${purple}      *${rest}"
-    echo -e "${purple}* ${green}Telegram Channel: ${blue}@ImErfanChannel${purple} *${rest}"
-    echo -e "${purple}* ${green}GitHub: ${blue}https://github.com/ImErfan${purple} *${rest}"
-    echo -e "${purple}* ${green}Website: ${blue}https://imerfan.com${purple} *${rest}"
+    echo -e "${purple}* ${green}Telegram ID: ${blue}@ImMaghzBad${purple}      *${rest}"
+    echo -e "${purple}* ${green}Telegram Channel: ${blue}@PowerSigma${purple} *${rest}"
+    echo -e "${purple}* ${green}GitHub: ${blue}https://github.com/immaghzbad${purple} *${rest}"
+    echo -e "${purple}* ${green}Website: ${blue}https:/powersigma.site${purple} *${rest}"
+    echo -e "${purple}*************************************${rest}"
+}
+
+# Display peyman information
+display_peyman_info() {
+    echo -e "${purple}*************************************${rest}"
+    echo -e "${purple}* ${green}Name: ${blue}Peyman${purple}               *${rest}"
+    echo -e "${purple}* ${green}Telegram Channel: ${blue}@P_tech2024${purple}      *${rest}"
+    echo -e "${purple}* ${green}GitHub: ${blue}https://github.com/Ptechgithub${purple} *${rest}"
     echo -e "${purple}*************************************${rest}"
 }
 
@@ -149,21 +158,16 @@ process_vless_config() {
     local address=$(echo "$endip_v4" | cut -d: -f1)
     local new_vless_url=$(echo "$vless_url" | sed -E "s/@[^:]*:[^?]*\?/@$address:$port?/")
 
-    new_vless_url=$(echo "$new_vless_url" | sed -E "s/#.*$/#Powerful By @ImErfan/")
+    new_vless_url=$(echo "$new_vless_url" | sed -E "s/#.*$/#Powerful By @ImMaghzBad/")
 
     echo "$new_vless_url"
 }
 
 # Clear the console and display header
 clear
-echo -e "${cyan}By --> ImErfan * Github.com/ImErfan * ${rest}"
-echo ""
-echo -e "${purple}*********************${rest}"
-echo -e "${purple}* ${green}Endpoint Scanner ${purple} *${rest}"
-echo -e "${purple}*********************${rest}"
-
 # Display creator information
 display_creator_info
+display_peyman_info
 
 # Request VLESS config URL from the user
 echo -en "${cyan}Enter your VLESS config URL: ${rest}"
