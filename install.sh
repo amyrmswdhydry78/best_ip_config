@@ -157,7 +157,7 @@ process_vless_config() {
     local address=$(echo "$endip_v4" | cut -d: -f1)
     local new_vless_url=$(echo "$vless_url" | sed -E "s/@[^:]*:[^?]*\?/@$address:$port?/")
 
-    new_vless_url=$(echo "$new_vless_url" | sed -E "s/#.*$/#Powerful By @ImMaghzBad/")
+    new_vless_url=$(echo "$new_vless_url" | sed -E "s/#.*$/#Powerful By @PowerSigma/")
 
     echo "$new_vless_url"
 }
