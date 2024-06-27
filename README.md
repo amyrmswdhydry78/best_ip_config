@@ -1,6 +1,6 @@
 # best_ip_config
 
-## Optimal IP Configuration for V2RayNG VLESS Protocol
+## Optimal IP Scanner for V2RayNG VLESS Protocol
 
 Welcome to the best_ip_config repository! This repository aims to provide the most efficient and effective IP configuration settings for the V2RayNG VLESS protocol, ensuring a seamless and secure connection experience.
 
