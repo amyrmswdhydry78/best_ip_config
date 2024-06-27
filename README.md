@@ -12,8 +12,7 @@ Welcome to the best_ip_config repository! This repository aims to provide the mo
 4. [Configuration](#configuration)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ### Introduction
 
@@ -62,16 +61,14 @@ Once the configuration is applied, you can start using V2RayNG with the enhanced
 
 We welcome contributions from the community! If you have suggestions, improvements, or bug reports, please feel free to submit an issue or a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ### Contact
 
 For more information, support, or inquiries, you can reach out to the project maintainer:
 
-- **Website**: [YourWebsite.com](https://yourwebsite.com)
-- **Telegram**: [YourTelegramLink](https://t.me/yourtelegram)
+- **WebSite**: [powersigma.site](https://powersigma.site)
+- **Telegram Channel**: [YourTelegramLink](https://t.me/PowerSigma)
+- **Telegram ImErfan**: [@ImMaghzBad](https://t.me/ImMaghzBad)
+
 
 ---
 
