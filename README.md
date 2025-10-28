@@ -46,6 +46,5 @@ For more information, support, or inquiries, reach out to the project maintainer
 - **Telegram Channel**: [@PowerSigma](https://t.me/PowerSigma)
 ---
 
-Thank you for using our optimal IP Scanner for the V2RayNG VLESS protocol. We hope it enhances your connection experience!
-
----
+Thank you for using our optimal IP Scanner for the V2RayNG VLESS protocol. We hope it enhances 
+https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/loc/EG 🇪🇬.txt
